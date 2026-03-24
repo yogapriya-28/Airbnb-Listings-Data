@@ -119,14 +119,6 @@ Tasks:
 - Characteristics of top-performing listings
 - Optimization strategies for Airbnb hosts
 
----
-
-## 📄 Submission Details
-- Final report in PDF format
-- Includes:
-  - Output screenshots (tables, plots, models)
-  - Interpretations and insights
-- Python code is not included in the report
 
 ---
 
